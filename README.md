@@ -93,3 +93,7 @@ P.S СМ должны быть в классрумах ПРОГ-3, но я не 
 [ИСР 2.1](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/CEM6/ISR3_1.MD)
 
 [ВСР](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/CEM5/prog1.rar)
+
+## Доп задание 
+
+[доп.задание](https://repl.it/@DmitriiKhanov/asdasd#main.py)
