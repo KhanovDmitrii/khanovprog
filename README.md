@@ -62,7 +62,7 @@ P.S СМ должны быть в классрумах ПРОГ-3, но я не 
 
 ## Самостоятельная работа 1
 
-[ИСР'ы 1.1-1.2](https://repl.it/@DmitriiKhanov/SM11-12)
+[ИСР1.2](https://repl.it/@DmitriiKhanov/SM11-12)
 
 [ВСР](https://repl.it/@DmitriiKhanov/VR11#main.py)
 
