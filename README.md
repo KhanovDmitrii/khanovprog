@@ -72,7 +72,7 @@
 
 [ВСР](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/CEM5/VSR3.MD)
 
-### Самостоятельная работа 4
+## Самостоятельная работа 4
 
 [ИСР](https://repl.it/@DmitriiKhanov/PROG-5-ISR-5#main.py)
 
