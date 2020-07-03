@@ -21,7 +21,9 @@
 
 [Лабораторная работа 08.11.2018](https://repl.it/@DmitriiKhanov/HarshShabbyProspect)
 
-P.S СМ должны быть в классрумах ПРОГ-3, но я не уверен
+[СР 2](https://github.com/python-basic/sem3-t2-KhanovDmitrii)
+
+[СР 3](https://github.com/python-basic/sem3-t3-KhanovDmitrii)
 
 ## 4 семестр
 
