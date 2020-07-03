@@ -31,13 +31,21 @@
 
 ## 4 семестр
 
-[Лабораторная + самостоятельная работа №1 ](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb1)
+### Тема 1
 
-[Лабораторная + самостоятельная работа №2](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb2)
+[Самостоятельная работа №1 ](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb2)
 
-[Лабораторная + самостоятельная работа №3](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb3)
+### Тема 2
 
-[Лабораторная + самостоятельная работа №4](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb4)
+[Самостоятельная работа №2](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb3)
+
+### Тема 3
+
+[Лабораторная + самостоятельная работа №3](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb4)
+
+### Тема 4
+
+[Лабораторная + самостоятельная работа №4](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb1)
 
 [22.05.2019](https://repl.it/@DmitriiKhanov/22052019)
 
