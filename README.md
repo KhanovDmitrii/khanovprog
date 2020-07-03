@@ -21,9 +21,13 @@
 
 [Лабораторная работа 08.11.2018](https://repl.it/@DmitriiKhanov/HarshShabbyProspect)
 
-[СР 2](https://github.com/python-basic/sem3-t2-KhanovDmitrii)
+### Тема 3
 
-[СР 3](https://github.com/python-basic/sem3-t3-KhanovDmitrii)
+[Самостоятельная работа 3](https://github.com/python-basic/sem3-t2-KhanovDmitrii)
+
+### Тема 4
+
+[Самостоятельная работа 4](https://github.com/python-basic/sem3-t3-KhanovDmitrii)
 
 ## 4 семестр
 
@@ -59,6 +63,10 @@
 [ИСР 3.3](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/CEM5/SR3.MD)
 
 [ВСР](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/CEM5/VSR3.MD)
+
+### Самостоятельная работа 4
+
+[ИСР](https://repl.it/@DmitriiKhanov/PROG-5-ISR-5#main.py)
 
 ## 6 семестр
 
